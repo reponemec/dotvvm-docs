@@ -14,7 +14,7 @@ DotVVM provides a MVVM rendering engine with dozens of ready-made components, an
 
 DotVVM can handle validation and supports SPAs (single page applications), page localization, date and number formatting and much more. 
 
-DotVVM is easy to learn and doesn't require any JavaScript skills at the beginning - knowing **C#, HTML and CSS** is enough to start. 
+DotVVM is easy to learn and **doesn't require any JavaScript skills at the beginning** - knowing **C#, HTML and CSS** is enough to start. 
 
 The **Dot** represents **.NET Framework** and **VVM** stands for the design pattern that is used: **MVVM - Model View ViewModel**.
 
